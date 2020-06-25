@@ -1,12 +1,14 @@
 # guarda-mobile-beta
 
 About
+
 Guarda Wallet is non-custodial cryptocurrency storage, that supports the most popular coins and their tokens including BTC, BCH, BSV, ETH, Ethereum-based tokens (ERC-20, ERC-721), ETC, ZEC, LTC, XRP, NEO, EOS, DASH and the others.
 
 Guarda developers created digital wallets that provide complete security. Everyone can use our software for easy storing and managing cryptocurrencies. We respect, appreciate, and sincerely love blockchain technology. Our priority is the decentralization of the Guarda software in accordance with the basic principles of blockchain. User privacy and anonymity are the main postulates for us, that is why we do not store your private keys, backup files, or any other data on Guarda servers. All your private data is stored only by you. Our wallet is lightweight, has a convenient and intuitive interface.
 
 
 Program overview
+
 Guarda is planning to release a completely redesigned mobile application for Android and iOS platforms, and invites everyone to take part in beta testing and bug bounty program.
 
 This program is aimed at finding bugs and vulnerabilities in Guarda mobile wallet v2.0 Beta for Android and iOS.
@@ -14,7 +16,10 @@ This program is aimed at finding bugs and vulnerabilities in Guarda mobile walle
 Guarda's primary goal is to offer users an exceptional experience in crypto asset management, with a focus on security. According to it all submitted issues will be evaluated based on the impact to our users and the Guarda ecosystem and used for the purposes of improving Guarda security and user experience.
 
 This bounty brief describes the rules of the Guarda bug bounty program. Please review, understand, and agree to the following terms and conditions before conducting any testing for Guarda and before submitting a report.
+
+
 Program rules
+
 Please do not publicly disclose any vulnerabilities which have not been fixed
 Do not intentionally harm the experience of Guarda service to others, including degradation of services and denial of service attacks.
 Do not attempt non-technical attacks such as social engineering, phishing, or physical attacks against our employees, users, or infrastructure.
@@ -29,6 +34,7 @@ Time to bounty - 10 business days from verification
 By submitting a bug, you agree to be bound by the rules.
 
 Resources
+
 Beta applications:
 Android: https://play.google.com/apps/testing/com.crypto.multiwallet
 iOS: https://testflight.apple.com/join/zCE6fKV5
@@ -41,9 +47,11 @@ Guarda support: https://guarda.freshdesk.com/support/tickets/new
 
 
 Guarda Vulnerability Classifications
+
 In scope:
 Guarda Mobile Wallet Beta 2.* Android
 Guarda Mobile Wallet Beta 2.* iOS
+
 Out of scope:
 *.guarda.com
 *.guarda.co
@@ -84,6 +92,7 @@ any activity that could lead to the disruption of our service (DoS)
 distributed denial of service attacks (DDOS).
 
 Report guidelines
+
 All reports should be submitted as a Guarda Github Issue https://github.com/guardaco/guarda-mobile-beta/issues
 Report should contain:
 Name of bug
@@ -94,6 +103,7 @@ Visual proofs (video, screenshots etc) if needed. All attachments should be link
 
 
 Bounty resolution
+
 Each report is checked manually. 
 It is up to Guarda to decide the severity of the bug, as well as the decision to award a payment
 Total funding for bounty program - 1000$
@@ -106,8 +116,10 @@ Rewards will be paid out in ETH at the exchange rate on the date of payment
 
 
 Fine print
+
 We reserve the right to modify the Bug Bounty Program or cancel the Bug Bounty Program at any time.
 
 
 Safe harbor
+
 Any activities conducted in a manner consistent with the law and our bounty policy will be considered authorized conduct and we will not initiate legal action against you. If legal action is initiated by a third party against you in connection with activities conducted under this policy, we will take steps to make it known that your actions were conducted in compliance with this policy
