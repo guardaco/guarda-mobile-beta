@@ -86,7 +86,7 @@ Guarda support: https://guarda.freshdesk.com/support/tickets/new
 - 3rd party library dependencies
 - web vulnerabilities for *.guarda.com and *.guarda.co and 3rd party services
 - password complexity policies
-- internally known issues, duplicate issues, or issues which have already been made public
+- internally known issues (https://github.com/guardaco/guarda-mobile-beta/issues/2), duplicate issues, or issues which have already been made public 
 - bugs only exploitable on out-of-date browsers or platforms
 - crashes due to malformed Intents
 - any activity that could lead to the disruption of our service (DoS)
