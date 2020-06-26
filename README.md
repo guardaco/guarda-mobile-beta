@@ -1,4 +1,4 @@
-# guarda-mobile-beta
+# Guarda Mobile Wallet v2 beta
 
 ## About
 
