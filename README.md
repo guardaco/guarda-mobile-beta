@@ -20,6 +20,8 @@ This bounty brief describes the rules of the Guarda bug bounty program. Please r
 
 ## Program rules
 
+#### Although we are confident in the quality of the application, we kindly ask you to save a backup file before you start working with the beta version.
+
 - Please do not publicly disclose any vulnerabilities which have not been fixed
 - Do not intentionally harm the experience of Guarda service to others, including degradation of services and denial of service attacks.
 - Do not attempt non-technical attacks such as social engineering, phishing, or physical attacks against our employees, users, or infrastructure.
